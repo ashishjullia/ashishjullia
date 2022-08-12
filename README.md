@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](itachi.gif)
+![](itachi.gif width="250" height="250")
 
 <!--
 **ashishjullia/ashishjullia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
