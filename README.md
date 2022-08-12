@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-![](itachi.gif width="50%" height="100%")
 <img src="itachi.gif" width="15%" height="30%"/>
 
 <!--
